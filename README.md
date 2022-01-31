@@ -1,2 +1,2 @@
-# Binary-Tree-Max-Element
+# Binary-Tree
 Created with CodeSandbox
